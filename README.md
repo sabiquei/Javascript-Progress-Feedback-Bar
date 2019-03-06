@@ -4,7 +4,7 @@ Progress bar which gives a loading feedback. Implemented in javaScript.
 Usage
 -----
 
-Include 
+Include progresfeedback.js in application.
 
 To start
 --------
