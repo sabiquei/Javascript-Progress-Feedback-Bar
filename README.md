@@ -28,5 +28,3 @@ You can pass in an optional option object with following properties as an extra 
   classNames : Any additional classNames for the element || default - null.<br />
   target : javascript object of a div to which the element is to be inserted || if not provided element will be inserted in body.<br />
 </h6>
-
-Testing for webhooks
